@@ -23,6 +23,7 @@ Output: Finally, the recognized words or commands are generated as output, which
 It's important to note that speech recognition systems can vary in their performance and accuracy depending on factors such as the quality of the audio input, language complexity, speaker variability, and the amount and diversity of training data available for the models.
 
 Speech recognition technology has numerous applications, including transcription services, voice assistants, dictation software, call center automation, voice-controlled devices, and more.
+
 # Speech recognition systems, also known as automatic speech recognition (ASR) systems, are designed to convert spoken language into written text. There are several ways in which speech recognition systems can be implemented:
 
 1. Traditional Acoustic Modeling: This approach involves training the system using statistical models that capture the relationship between acoustic features of speech signals and corresponding phonetic units or words. Hidden Markov Models (HMMs) have been widely used for this purpose.
@@ -75,10 +76,16 @@ To use this model for Arabic speech-to-text conversion, you would typically foll
 
 It's important to note that using the model requires some technical expertise in working with deep learning models and ASR systems. Additionally, you may need to install the necessary dependencies and libraries to run the model successfully.
 
-# The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
+# Jupyter Notebook workshop will explain every thing that you want to understand :)
+
+# The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model 
+
+is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
 
 The model is based on the Wav2Vec2 architecture, which a state-of-the-art approach for ASR tasks. It has been trained using a large amount of data that includes multiple languages and tasks, making it more versatile and capable of handling different accents and speech patterns.
 
 During its training, the model has been exposed to 53 different languages, which helps it to better understand and recognize various speech characteristics. This multilingual training approach enhances the model's ability to accurately transcribe English speech in real-world scenarios.
 
 By utilizing this model, you can feed it with audio recordings of spoken English language and receive the corresponding written text as output. This can be useful in a wide range of applications such as transcription services, voice assistants, voice-controlled systems, and any other task that requires converting spoken words into written form.
+
+# Jupyter Notebook workshop will explain every thing that you want to understand :)
