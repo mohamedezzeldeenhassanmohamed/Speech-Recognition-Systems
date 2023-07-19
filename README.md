@@ -24,7 +24,7 @@ It's important to note that speech recognition systems can vary in their perform
 
 Speech recognition technology has numerous applications, including transcription services, voice assistants, dictation software, call center automation, voice-controlled devices, and more.
 
-#To convert speech into text using the Facebook Wav2Vec 2.0 model, you'll need to follow these steps:
+# To convert speech into text using the Facebook Wav2Vec 2.0 model, you'll need to follow these steps:
 
 1. Install the required libraries: Make sure you have the necessary libraries installed. You'll need `torch`, `chaudio`, and `transformers` for this task.
 
