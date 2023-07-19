@@ -75,7 +75,7 @@ To use this model for Arabic speech-to-text conversion, you would typically foll
 
 It's important to note that using the model requires some technical expertise in working with deep learning models and ASR systems. Additionally, you may need to install the necessary dependencies and libraries to run the model successfully.
 
-# The "english_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
+# The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
 
 The model is based on the Wav2Vec2 architecture, which a state-of-the-art approach for ASR tasks. It has been trained using a large amount of data that includes multiple languages and tasks, making it more versatile and capable of handling different accents and speech patterns.
 
