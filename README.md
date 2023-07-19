@@ -58,3 +58,5 @@ It's important to note that speech recognition technology is constantly evolving
 6. Perform inference: Pass the tokenized input through the Wav2Vec2 model to obtain the model's output. The output will be a probability distribution over the vocabulary.
 
 7. Decode the model output: Use the Wav2Vec2 tokenizer's decoding functionality to convert the model's output into text. This step involves handling CTC decoding to handle repeated characters and blank tokens.
+
+# Jupyter Notebook workshop will explain every thing that you want to understand :)
