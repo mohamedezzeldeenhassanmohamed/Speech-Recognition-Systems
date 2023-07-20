@@ -117,3 +117,4 @@ https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/asse
 https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/c985566c-6276-4fdb-a725-076b8aa7f010
 
 
+# Presentation ------> [Speech && Handwriting .pptx](https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/files/12113263/Speech.Handwriting.pptx)
