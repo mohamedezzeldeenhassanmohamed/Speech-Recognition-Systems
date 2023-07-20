@@ -80,13 +80,7 @@ It's important to note that using the model requires some technical expertise in
 
 # Using_This_Model_As_A_Real_Service_In_Real_App
 
-1-Arabic characters
-
-
-
-https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/743f8447-910f-4243-ad72-eaa5c60ed5ef
-
-
+1-Arabic characters https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/7174f441-4876-44e1-8875-ce3cc6f7f06f
 
 # The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model 
 
