@@ -82,8 +82,6 @@ It's important to note that using the model requires some technical expertise in
 
 1-Arabic characters 
 
-https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/012d190c-918c-4bcd-9842-4653d20d6528
-
 # The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model 
 
 is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
@@ -97,15 +95,8 @@ By utilizing this model, you can feed it with audio recordings of spoken English
 # Jupyter Notebook workshop will explain every thing that you want to understand :)
 
 # Using_This_Model_As_A_Real_Service_In_Real_App
-1-English Words
+1- English Words
 
+2- English characters
 
-
-2-English characters
-
-
-
-2-English Numbers
-
-
-
+3- English Numbers
