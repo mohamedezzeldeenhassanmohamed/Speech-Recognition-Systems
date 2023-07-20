@@ -82,6 +82,10 @@ It's important to note that using the model requires some technical expertise in
 
 1-Arabic characters 
 
+
+https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/b867c9ee-2fe7-467b-83cb-d72ca3614671
+
+
 # The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model 
 
 is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
