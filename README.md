@@ -99,19 +99,19 @@ By utilizing this model, you can feed it with audio recordings of spoken English
 # Jupyter Notebook workshop will explain every thing that you want to understand :)
 
 # Using_This_Model_As_A_Real_Service_In_Real_App
-
+1- English Words
 
 
 https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/8d8b22d0-eed9-46e5-a8d1-592cddf33670
 
 
-
+2- English Numbers
 
 
 https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/0e298dda-f739-473c-bf34-0d11e91d2ff2
 
 
-
+3- English Characters
 
 
 https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/c985566c-6276-4fdb-a725-076b8aa7f010
