@@ -82,6 +82,8 @@ It's important to note that using the model requires some technical expertise in
 
 1-Arabic characters 
 
+<div style="padding:47.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/847055198?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 # The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model 
 
 is a specific type of artificial intelligence model that is designed to convert spoken English language audio into written text. This process is known as automatic speech recognition (ASR).
