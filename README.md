@@ -82,7 +82,11 @@ It's important to note that using the model requires some technical expertise in
 
 1-Arabic characters
 
+
+
 https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/743f8447-910f-4243-ad72-eaa5c60ed5ef
+
+
 
 # The "English_speech_to_text-jonatasgrosman-wav2vec2-large-xlsr-53-english" model 
 
