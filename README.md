@@ -80,7 +80,7 @@ It's important to note that using the model requires some technical expertise in
 
 # Using_This_Model_As_A_Real_Service_In_Real_App
 
-1-Arabic characters 
+1-Arabic Characters 
 
 
 https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/b867c9ee-2fe7-467b-83cb-d72ca3614671
@@ -100,8 +100,20 @@ By utilizing this model, you can feed it with audio recordings of spoken English
 
 # Using_This_Model_As_A_Real_Service_In_Real_App
 
-1- English Words
 
-2- English characters
 
-3- English Numbers
+https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/8d8b22d0-eed9-46e5-a8d1-592cddf33670
+
+
+
+
+
+https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/0e298dda-f739-473c-bf34-0d11e91d2ff2
+
+
+
+
+
+https://github.com/mohamedezzeldeenhassanmohamed/Speech-Recognition-Systems/assets/94178842/c985566c-6276-4fdb-a725-076b8aa7f010
+
+
